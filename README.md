@@ -11,3 +11,20 @@ Images:
 - https://scikit-image.org/ | A Python package with image library 
 - https://www.kaggle.com/datasets?search=image | 26,990 image datasets including 274 NLP datasets 
 - https://research.google/blog/introducing-the-open-images-dataset/?m=1 | Links to popular image libraries like [ImageNet](https://image-net.org/) and  [YFCC100M](https://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67&guccounter=1)
+
+# Final deliverable:
+A written report with:
+- literature review including what techniques currently exist for detecting bias, their strengths and limitations
+- Description of the data & how we found it
+- Description of the model and what metric(s) we used to evaluate it, based on the lit review
+- Results of evaluation
+- Conclusion: does the model show bias or not?
+- Potential: description of an established pipeline OR recommendations for evaluating future models
+
+A presentation with:
+- what we found in our lit review and why we chose the metrics we did
+- Description of the model we chose and why we chose it
+- Description of the process of getting the data, accessing the model, and evaluating it
+- What we found - performance on bias metrics
+- Conclusion: biased or not?
+- Potential: description of an established pipeline OR recommendations for evaluating future models
