@@ -28,3 +28,60 @@ A presentation with:
 - What we found - performance on bias metrics
 - Conclusion: biased or not?
 - Potential: description of an established pipeline OR recommendations for evaluating future models
+
+# Project roadmap
+
+Week 1 (Jan 17-23):
+- Determine final deliverable
+- Set out project roadmap (this)
+- Email sponsors with project plan and roadmap
+
+Weeks 2-4 (Jan 24 - Feb 6):
+- Dig into researching bias in AI and possible metrics
+- Add notes to the issue
+
+Week 5: (Feb 7-13):
+- Tentatively decide on what metrics and model to use
+- Find datasets to test on
+
+Week 6: (Feb 14-20)
+- Finalize decision on what metrics, model, and dataset(s) to use
+- DETAILED documentation of decision and reasoning
+- Begin writeup of the previous
+
+Week 7: (Feb 21-27)
+- Finalize writeup of Report 1
+
+**Feb 27: Report 1 DUE**
+
+Week 8: (Feb 28 - Mar 6)
+- Get data into (jupyter) environment
+
+Week 9-11: (Mar 7-27)
+- Spring break
+- Implement tests, evaluate model
+- DETAILED documentation of findings
+
+Week 12: (Mar 28 - Apr 3)
+- * Flex week - extra time for implementing tests/evaluating model if things go wrong, or starting to establish the bias eval pipeline
+- Begin writeup of report 2: what we have accomplished so far and plan for pipeline
+- May begin work on the pipeline in this week
+
+Week 13-14: (Apr 4-16)
+- Write/finalize report 2
+- Start on pipeline in earnest
+- DETAILED documentation of pipeline
+
+**Apr 17: Report 2 DUE**
+
+Week 15: (Apr 17-23)
+- Finalize pipeline
+- DETAILED documentation of pipeline
+- Start final report writeup
+
+Week 16: (Apr 24-30)
+- No more technical work (it is what it is)
+- Final report
+- Final presentation
+
+**May 1: Final Deliverables DUE**
