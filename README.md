@@ -16,7 +16,7 @@ Images:
 A written report with:
 - literature review including what techniques currently exist for detecting bias, their strengths and limitations
 - Description of the data & how we found it
-- Description of the model and what metric(s) we used to evaluate it, based on the lit review
+- Description of the model and what metric(s) and/or libraries we used to evaluate it, based on the lit review
 - Results of evaluation
 - Conclusion: does the model show bias or not?
 - Potential: description of an established pipeline OR recommendations for evaluating future models
