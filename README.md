@@ -5,6 +5,7 @@ Project materials for DS 6015: DS Capstone as part of UVA School of Data Science
 
 - Becky
   - prune report 2 for final report
+  - update your part in the presentation
   - upload headshot for presentation
 - Naomi
   - make sure code is clean and readable
