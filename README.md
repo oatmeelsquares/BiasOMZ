@@ -21,7 +21,6 @@ Project materials for DS 6015: DS Capstone as part of UVA School of Data Science
   - write up appendix for any results you think should be included from Aequitas
   - upload headshot for presentation
 - Abner
-  - get pictures and whatever background info Intel people want to share
   - make sure code is clean and readable
   - write a part in the README about how to use your code
   - update requirements.txt with every package you used
