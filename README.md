@@ -1,6 +1,34 @@
 # BiasOMZ
 Project materials for DS 6015: DS Capstone as part of UVA School of Data Science Master's in Data Science. The goal of this project is to evaluate a model from Intel's [Open Model Zoo](https://github.com/openvinotoolkit/open_model_zoo/tree/master) for potential bias against protected characteristic(s). 
 
+# Work breakdown for final week:
+
+- Becky
+  - prune report 2 for final report
+  - upload headshot for presentation
+- Naomi
+  - make sure code is clean and readable
+  - write a part in the README about how to use your code
+  - update requirements.txt with every package you used
+  - update your part in the presentation
+  - write up appendix for any results you think should be included from AIF360
+  - upload headshot for presentation
+- George
+  - make sure code is clean and readable
+  - write a part in the README about how to use your code
+  - update requirements.txt with every package you used
+  - update your part in the presentation
+  - write up appendix for any results you think should be included from Aequitas
+  - upload headshot for presentation
+- Abner
+  - get pictures and whatever background info Intel people want to share
+  - make sure code is clean and readable
+  - write a part in the README about how to use your code
+  - update requirements.txt with every package you used
+  - update your part in the presentation
+  - upload headshot for presentation
+
+
 # Potential datasets:
 Audio:
 - https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset |  195k recordings but some are from AI
