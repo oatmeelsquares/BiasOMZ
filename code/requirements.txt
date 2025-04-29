@@ -1,1 +1,11 @@
-
+pandas
+numpy
+otx
+torch
+lightning
+torchvision
+openvino-model-api
+openvino
+onnx
+openvino-dev
+opencv-python
