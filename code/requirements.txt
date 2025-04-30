@@ -9,3 +9,11 @@ openvino
 onnx
 openvino-dev
 opencv-python
+
+# AIF360 Requirements
+sklearn
+aif360
+common-utils
+matplotlib
+seaborn
+collections
