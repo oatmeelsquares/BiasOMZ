@@ -10,6 +10,14 @@ onnx
 openvino-dev
 opencv-python
 
+# Aequitas
+aequitas==0.42.0
+pandas
+seaborn
+matplotlib
+sklearn
+IPython
+
 # AIF360 Requirements
 sklearn
 aif360
