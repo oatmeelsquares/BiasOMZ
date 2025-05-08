@@ -3,10 +3,23 @@ Project materials for DS 6015: DS Capstone as part of UVA School of Data Science
 
 # How to use this repo
 
-## Clean preds
+## How to use the "Clean_Preds" Notebook
+
 -	The Clean_preds file contains the overall methodology for specifying a model, ingesting data, and transforming data.
--	The first part of the notebook allows the user to choose a model and have it automatically downloaded to the file directory (using the model_name variable)
+
+### 1. Set up the model
+-	The first part of the notebook allows the user to choose a model and have it automatically downloaded to the file directory (using the model_name variable).
+-	It contains a github link that can be followed with additional guideance on the openvino api utilization for creating a model.
+-	To set up the model the user should identify one of the Open Model Zoo models (such as the face-detection-0200) and update the variable name accordingly.
+-	Once that is done all variables should automatically populate with each chunk providing outlines for what they do.
+
+### 2. Running the Model
 -	The second part of the juptyer notebook transforms the selected image dataset and transforms it to fit specifically in the face-detection-0200 model
+-	The data must be in the format outlined in the notbook if continuing to use the face detection model that was selected.
+-	If the face detection model is not chosen, reference the github repo of the open model zoo model selected.
+-	For image data provide the directory containing the files under "os.listdir" to the image processing chunk.
+-	Modify this chunk accordingly for any feature engineering or changes needed to an image dataset outside of the changes that are already defined.
+-	The results_df contains the predictions that can than be fed into the Aequitas tool.
 -	Note that this notebook is designed to work with both this dataset and the fairface dataset, while it does provide a framework to use open vino, changes may be needed in case the user wants to use either a different dataset or a different model
 
 ## How to Use Aequitas
